@@ -21,6 +21,7 @@ open class DGRunkeeperSwitchRoundedLayer: CALayer {
 // MARK: - DGRunkeeperSwitch
 
 
+@objcMembers
 @IBDesignable
 open class DGRunkeeperSwitch: UIControl {
     
